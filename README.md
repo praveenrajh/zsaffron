@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with Z Princess Saffron
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project was Created with MERN Stack
+- Client Part was worked on ReactJS
+- Server Part was worked on NodeJS
+- Database was woked on MongoDB 
 ## Available Scripts
 
 In the project directory, you can run:
